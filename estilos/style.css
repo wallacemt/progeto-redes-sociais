@@ -25,18 +25,19 @@ section#telefone{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 627px;
-    width: 311px;
-    background: url(..//imagens/frame-iphone.png);
+    height: 726px;
+    width: 344px;
+    background: url(..//imagens/xiaomi-redmi-note-10s-8gb-ram-raw-5005594-removebg-preview.png);
     background-repeat: no-repeat;
 }
 
 iframe#tela{
     position: relative;
-    top: 80px;
-    left: 22px;
-    width: 269px;
-    height: 471px;
+    top: 14px;
+    left: 14px;
+    width: 315px;
+    height: 700px;
+    border-radius: 27px;
 }
 section#redes-sociais{
     text-align: right;
